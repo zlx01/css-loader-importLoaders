@@ -1,0 +1,7 @@
+@import './test2.css';
+
+@media (min-resolution: 2dppx) {
+  .image {
+    /*background-image: url(image@2x.png);*/
+  }
+}

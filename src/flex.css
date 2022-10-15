@@ -1,0 +1,4 @@
+div {
+  /*测试发现对于默认配置的browserlist postcss autoprefixer 不会为flex添加厂商前缀*/
+  display: flex;
+}

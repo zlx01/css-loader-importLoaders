@@ -1,0 +1,5 @@
+@media (min-resolution: 3dppx) {
+  .image {
+    /*background-image: url(image@3x.png);*/
+  }
+}

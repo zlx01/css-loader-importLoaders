@@ -1,0 +1,9 @@
+$font-big: 20px;
+
+body {
+  font-size: $font-big;
+}
+
+::placeholder {
+  color: blue;
+}
